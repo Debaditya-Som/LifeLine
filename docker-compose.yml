@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  spring-boot-app:
+    image: demo-server
+    ports:
+      - "8080:8080"
+
+  react-app:
+    image: demo-client
+    ports:
+      - "3000:3000"
