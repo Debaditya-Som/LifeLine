@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+
+.header {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  margin-right: 10px; /* Adjust the margin as needed to increase space */
+}
+
+span {
+  color: #FFF;
+  text-shadow: 0px 4px 25px rgba(0, 0, 0, 0.99);
+  font-family: 'Amaranth', sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}

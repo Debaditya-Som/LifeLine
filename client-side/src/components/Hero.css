@@ -1,0 +1,51 @@
+/* hero.css */
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+  }
+  
+  .hero-images {
+    flex-shrink: 0;
+    width: 50%;
+  }
+  
+  .hero-image {
+    width: 80%;
+    height: auto;
+    margin-bottom: 16px;
+    object-fit: cover; /* This property ensures the image retains its aspect ratio */
+  border-radius: 8px;
+  }
+  
+  .hero-text {
+    flex-grow: 1;
+    padding: 0 40px;
+    color: #fff;
+  }
+  
+  .hero-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .hero-description {
+    font-size: 1.5rem;
+    margin-bottom: 24px;
+  }
+  
+  .hero-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  .secondary-btn {
+    background-color: #940a05c2; /* Change to your secondary color */
+    color: #fff;
+    margin-left: 12px;
+  }
+  
