@@ -36,4 +36,12 @@ Lifeline is full-stack web application that uses location-based technology, part
 
     - **Postman:**  Used it to test the backend Spring Boot API (movie-api).
   
-    - **Docker: ** Used to containerise the server-side of the application  
+    - **Docker:** Used to containerise the server-side of the application
+  
+- ### Frontend:
+
+    - **React.js:**  Used for building a fast and dynamic frontend application.
+
+    - **JavaScript:** Enhances code quality and maintainability by introducing static typing to the codebase.
+
+    - **Tailwind CSS:** Enables rapid and responsive UI development with a utility-first CSS framework
