@@ -1,7 +1,8 @@
-### LifeLine
+
 
 <div align="center">
-
+## Project LifeLine
+  
 ![image](https://github.com/Debaditya-Som/LifeLine/assets/121785700/6e332502-ac23-41a5-b20a-4ec9b62c34ec)
 </div>
 
