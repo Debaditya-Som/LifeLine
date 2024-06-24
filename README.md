@@ -49,3 +49,10 @@ https://life-line-client.vercel.app/
     - **JavaScript:** Enhances code quality and maintainability by introducing static typing to the codebase.
 
     - **Tailwind CSS:** Enables rapid and responsive UI development with a utility-first CSS framework
+
+## Screenshots
+
+![image](https://github.com/Debaditya-Som/LifeLine/assets/121785700/b941dd25-de56-462b-a726-f4caf5a4d0b9)
+
+
+
